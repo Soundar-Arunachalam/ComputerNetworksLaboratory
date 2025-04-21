@@ -1,4 +1,10 @@
-aily,LinkedIn,"Yes, positively"
+What is your age group? ,  What is your occupation? ,Where do you live? ,How many hours per day do you spend on social media? ,How has social media affected your real-life relationships? ,How frequently do you use email for communication? ,Do you use LinkedIn for professional networking?  ,How often do you use WhatsApp for communication? ,Which social media platforms do you use the most?  ,Do you feel that social media affects your mental health?  
+18-25,Student,Urban Area,More than 5 hours,Improved,Daily,"Yes, actively",Daily,LinkedIn,"Yes, negatively"
+18-25,Student,Urban Area,3-5 hours,No Change,Never,"No, never",Daily,Others,Not sure
+18-25,Student,Urban Area,3-5 hours,No Change,Rarely,Rarely,Daily,Facebook,Not sure
+18-25,Student,Urban Area,3-5 hours,Worsened,Never,"No, never",Daily,Facebook,"Yes, negatively"
+18-25,Student,Suburban Area,3-5 hours,Improved,A few times a week,"Yes, actively",Daily,Facebook,"Yes, negatively"
+18-25,Student,Suburban Area,More than 5 hours,No Change,Rarely,"Yes, actively",Daily,LinkedIn,"Yes, positively"
 18-25,Student,Rural Area,More than 5 hours,No Change,Rarely,Rarely,Daily,Instagram,Not sure
 18-25,Student,Urban Area,3-5 hours,No Change,A few times a week,Rarely,Daily,Facebook,"Yes, positively"
 18-25,Student,Suburban Area,3-5 hours,Improved,A few times a week,"No, never",Daily,Facebook,Not sure
